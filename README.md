@@ -1,5 +1,5 @@
 #IMPORTANT
-Students of CSE 586/486 at UB, pl refrain from using this code or using the implementation as there have been instances of
+Students of CSE 586/486 at UB, pl refrain from using this code or using the implementation. There have been instances of
 students getting penalized for using github repo as basis for their assignments by the prof. 
 
 # Android-based-Dynamo 
